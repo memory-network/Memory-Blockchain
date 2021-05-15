@@ -9,7 +9,7 @@ Very easy to use full node and explorer GUI and cli (thousands of nodes active o
 Simplified UTXO based transaction model, with small on chain state
 Lisp-style turing complete functional programming language for money related use cases
 BLS keys and aggregate signatures (only one signature per block)
-Pooling protocol (in development) that allows farmers to have control of making blocks
+Pooling protocol (in development) that allows explorer to have control of making blocks
 Support for light clients with fast, objective syncing
 A growing community of explorer and developers around the world
 
