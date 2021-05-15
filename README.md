@@ -3,7 +3,7 @@ memory-network block chain Environmental protection block chain
 
 Mem is a modern cryptocurrency built from scratch, designed to be efficient, decentralized, and secure. Here are some of the features and benefits:
 
-MEM runs entirely in memory,
+Mem runs entirely in memory,
 Proof of space and time based consensus which allows anyone to active with commodity hardware
 Very easy to use full node and explorer GUI and cli (thousands of nodes active on mainnet)
 Simplified UTXO based transaction model, with small on chain state
